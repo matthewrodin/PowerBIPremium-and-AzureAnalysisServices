@@ -25,7 +25,7 @@ Analysis Services tabular models can be created and deployed in **Azure Analysis
 With a few exceptions, Power BI Premium provides a superset of the capabilities available in Azure Analysis Services. In time, these exceptions will be eliminated making Power BI Premium a clearly superior choice when considering capabilities alone.
 
 The table below lists where the significant differences exist between the two offerings:
-</br><img src="./Pictures/pic1.PNG" width="150">
+</br><img src="./Pictures/pic1.PNG" width="650">
 </br>
 
 * **Unlimited Power BI Report content viewing** is the capability to share a report or dashboard with everyone in an organization. Absent this capability, each user must possess a license to view the dashboard or report.
@@ -69,14 +69,14 @@ The table below lists where the significant differences exist between the two of
 
 ###  Key Takeaway
 
-1. there are a few capabilities where Azure Analysis Services satisfies requirements not yet generally available (GA) in Power BI Premium. If you require very large datasets or query scale out today, Azure Analysis Services might be your preferred solution. However, these features will soon be matched or exceeded in Power BI Premium.
+1. There are a few capabilities where Azure Analysis Services satisfies requirements not yet generally available (GA) in Power BI Premium. If you require very large datasets or query scale out today, Azure Analysis Services might be your preferred solution. However, these features will soon be matched or exceeded in Power BI Premium.
 
-2. Second, Power BI Premium is the enterprise platform for modern enterprise cloud BI applications. Analysis Services is the engine powering this platform. While Power BI Premium has (and will continue to have) additional capabilities for performance, scale, and management, the engine itself may satisfy your needs. Both are excellent and the choice between the two options is dependent on your business requirements.
+2. Power BI Premium is the enterprise platform for modern enterprise cloud BI applications. Analysis Services is the engine powering this platform. While Power BI Premium has (and will continue to have) additional capabilities for performance, scale, and management, the engine itself may satisfy your needs. Both are excellent and the choice between the two options is dependent on your business requirements.
 
 Power BI Premium is the focus for enterprise BI and the primary target for future investments. In time, Power BI Premium will provide a *superset* of the capabilities when compared to Azure Analysis Services.
 
 The clear future direction is **Power BI Premium**.
-</br><img src="./Pictures/pic3.PNG" width="300">
+</br><img src="./Pictures/pic3.PNG" width="200">
 
 </br>
 </br>
