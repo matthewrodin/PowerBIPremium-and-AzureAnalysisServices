@@ -45,7 +45,7 @@ The table below lists where the significant differences exist between the two of
 * **Automated incremental refresh** allows datasets to be updated with only changed data rather than refreshing the entire dataset.
 
 * **Large datasets** is the ability to host datasets as large as memory is available.  In Power BI Premium, the limit was 10GB but this ceiling has since been removed (this capability is in preview).
-</br><img src="./Pictures/pic2.PNG" width="250">
+</br><img src="./Pictures/pic4.PNG" width="250">
 
 * **Third party application support** means applications other than Power BI can be used to query and manage datasets with an XML/A endpoint.
 
@@ -76,9 +76,8 @@ The table below lists where the significant differences exist between the two of
 Power BI Premium is the focus for enterprise BI and the primary target for future investments. In time, Power BI Premium will provide a *superset* of the capabilities when compared to Azure Analysis Services.
 
 The clear future direction is **Power BI Premium**.
-</br><img src="./Pictures/pic3.PNG" width="200">
+</br><img src="./Pictures/pic3.PNG" width="250">
 
-</br>
 </br>
 
 ###  Resources
