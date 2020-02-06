@@ -16,7 +16,7 @@ It can sometimes be difficult to decide between enterprise BI solutions. Power B
 
 Analysis Services tabular models can be created and deployed in **Azure Analysis Services**. With Azure Analysis Services, almost all tabular models can be moved into Azure with few, if any, changes. There are multiple deployment options and service tiers within each option that you can tailor to meet your requirements. In less than a minute, you can configure the service tier you require in the Azure Portal. Note that multi-dimensional models are not yet supported in Azure Analysis Services.
 
- **Resource:** Step-by-step guide on how to implement[Sliding Window Partitioning with Azure ANalysis Services](https://github.com/matthewrodin/AzureAnalysisServices-SlidingWindowPartitioning)
+ **Resource:** Step-by-step guide on how to implement [Sliding Window Partitioning with Azure ANalysis Services](https://github.com/matthewrodin/AzureAnalysisServices-SlidingWindowPartitioning)
 </br>
 </br>
 
@@ -78,7 +78,6 @@ Power BI Premium is the focus for enterprise BI and the primary target for futur
 The clear future direction is **Power BI Premium**.
 </br><img src="./Pictures/pic3.PNG" width="250">
 
-</br>
 
 ###  Resources
 
