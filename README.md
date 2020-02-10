@@ -58,7 +58,7 @@ The table below lists where the significant differences exist between the two of
 * **Object Level Security** provides table and column level security on tabular models.
 
 * **Perspectives** define viewable subsets of a model that provide focused, business-specific, or application-specific viewpoints.
-</br>
+
 ###  Cost Considerations
 **Power BI Premium** is, as the name suggests, the premium offering for enterprise and self service BI. Power BI Premium is licensed by capacity and you pay for as much dedicated capacity as you need. Any users can consume Power BI content – only authors require an individual Power BI license.
 
